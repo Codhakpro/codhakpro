@@ -11,7 +11,7 @@
 <a href="https://github.com/codhakpro"><img src="https://img.shields.io/badge/GitHub-codhakpro-0D1117?style=for-the-badge&logo=github&logoColor=00D9A6" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/codhak-pro-a63491370/"><img src="https://img.shields.io/badge/LinkedIn-Codhak%20Pro-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9A6" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/codhakpro/"><img src="https://img.shields.io/badge/Instagram-codhakpro-0D1117?style=for-the-badge&logo=instagram&logoColor=00D9A6" alt="Instagram"/></a>
-<a href="https://x.com/OdufaluShedrack"><img src="https://img.shields.io/badge/X-Codhakpro-0D1117?style=for-the-badge&logo=x&logoColor=00D9A6" alt="X"/></a>
+<a href="https://x.com/codhakpro"><img src="https://img.shields.io/badge/X-Codhakpro-0D1117?style=for-the-badge&logo=x&logoColor=00D9A6" alt="X"/></a>
 
 </div>
 
